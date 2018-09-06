@@ -8,5 +8,5 @@
 language: bash
 
 script:
-    - grep appple fruit.txt
+    - grep tomato fruit.txt
 
